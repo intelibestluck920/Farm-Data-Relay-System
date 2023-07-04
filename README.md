@@ -59,7 +59,7 @@ Upcoming goals for FDRS include:
 - More sensor and controller examples. If you are using a device or sensor that is not covered in the examples, feel free to contribute an example of its basic usage!
 - Support for cellular radios with [TinyGSM]
 - Channel Activity Detection (CAD) for LoRa.
- 
+  
 ## Thank you
 **...very much for checking out my project!** I truly appreciate everyone who has reached out with contributions and assistance, especially those featured in the "Contributors" section. If you have any questions, comments, issues, or suggestions please don't hesitate to contact me at intelibestluck@gmail.com or open a discussion here on Github.
 
