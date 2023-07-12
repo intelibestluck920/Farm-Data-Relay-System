@@ -9,7 +9,6 @@ Farm Data Relay System is an easy way to communicate with remote IoT devices wit
 Devices are classified into two types: **Gateways** and **Nodes**. Gateways comprise the infrastructure of the network, moving data along pre-directed routes and providing coverage to all devices. Nodes allow the user to exchange data with a gateway. Each gateway is identified with an 8-bit physical hex address (MAC), while nodes use 16-bit integers to identify datapoints as they move through the system.
 
 
-
 ## Getting Started
 **Libraries Required:**
 - [ArduinoJson](https://arduinojson.org/)
